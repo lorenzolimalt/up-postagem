@@ -1,0 +1,71 @@
+{
+    "course/2025_T4": {
+        "cert_html_view_enabled": true,
+        "course_image": "placeholder.png",
+        "discussion_topics": {
+            "Geral": {
+                "id": "course"
+            }
+        },
+        "discussions_settings": {
+            "enable_graded_units": false,
+            "enable_in_context": true,
+            "provider_type": "openedx",
+            "unit_level_visibility": true
+        },
+        "display_name": "Fundamentosdeagenciamentonoturismo",
+        "enable_timed_exams": true,
+        "minimum_grade_credit": 0.8,
+        "language": "pt",
+        "pdf_textbooks": [
+            {
+                "chapters": [
+                    {
+                        "title": "Capitulo1",
+                        "url": "/static/placeholder.pdf"
+                    }
+                ],
+                "id": "3PDF_TEXTO_LIVRO",
+                "tab_title": "livro do estudante OFF"
+            }
+        ],
+        "start": "2025-01-01T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Dates",
+                "type": "dates"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "pdf_textbooks"
+            }
+        ]
+    }
+}
