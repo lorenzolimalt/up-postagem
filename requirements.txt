@@ -1,2 +1,4 @@
 django==4.2
 requests==2.31.0
+pdfkit==1.0.0
+beautifulsoup4==4.12.3 

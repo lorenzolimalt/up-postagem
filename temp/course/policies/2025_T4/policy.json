@@ -13,7 +13,7 @@
             "provider_type": "openedx",
             "unit_level_visibility": true
         },
-        "display_name": "Fundamentosdeagenciamentonoturismo",
+        "display_name": "FundamentosdoLazerTeoriaePraticaProfessor",
         "enable_timed_exams": true,
         "minimum_grade_credit": 0.8,
         "language": "pt",
